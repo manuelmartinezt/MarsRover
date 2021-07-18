@@ -1,0 +1,13 @@
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.exe
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.deps.json
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.runtimeconfig.json
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.runtimeconfig.dev.json
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.dll
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.pdb
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.csproj.AssemblyReference.cache
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.AssemblyInfoInputs.cache
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.AssemblyInfo.cs
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.csproj.CoreCompileInputs.cache
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.dll
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.pdb
+C:\Curso_asp_core3\MarsRovers\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.genruntimeconfig.cache
